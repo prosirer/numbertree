@@ -6,6 +6,7 @@ numbertree is a publically available "source code" of a numerological divination
 
 # What is it not?
 This is not a piece of software designed to calculate the system, nor is there any code involved here. 
+This is not a divination system based upon "Pythagorean" numerology. The Pythagorean number definitions have been removed and replaced with those found in the Sefirot and related sources. 
 
 # License?
 For now, there is no license while this repo & system is being constructed, so users may download the source code, but cannot modify it in anyway as of yet. This is expected to change in the future. 
