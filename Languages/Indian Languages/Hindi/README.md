@@ -19,6 +19,8 @@ actual Devanagari letters yields the best results.
 If the schwa is pronounced, then it is counted with a value of 1.
 Otherwise, it has no value.
 
+The following tables list the vowels first followed by the consonants.
+
 Hindi – Lightning Chart
 
 |     |    |    |    |    |    |    |    |     |     |     |
