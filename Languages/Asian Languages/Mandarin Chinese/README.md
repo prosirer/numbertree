@@ -13,7 +13,7 @@ should not be used here – only the Pinyin variant. This is because
 Pinyin is the closest alphabetical approximation to the sound of the
 birth name as it is spoken. That is not to say that the stems and
 branches are wrong, on the contrary. They can provide great insight.
-However, the acoustics pronounced are the bigger focal point of this project.
+However, the acoustics pronounced are the bigger focal point of this system.
 
 Once the name is translated into Pinyin, the letters that make up the
 Pinyin name are then translated into numbers according to the table
