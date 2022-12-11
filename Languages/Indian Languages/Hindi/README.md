@@ -1,9 +1,6 @@
 ### <span id="anchor-39"></span>**Hindi**
 
-Hindi uses the Devanagari script which is an abugida. Typically,
-abugida’s are not able to be natively used for divinating the birth
-name due to the lack of a vowel order. However, this script does contain
-such an order, and the vowels can also appear both independent and
+Hindi uses the Devanagari script which is an abugida. The vowels appear both independent and
 dependent (maatraa) of consonants.
 
 The value of the consonant and the value of the vowel attached to it
