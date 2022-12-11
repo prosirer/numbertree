@@ -1,7 +1,7 @@
 ### <span id="anchor-40"></span>Bengali
 
 For calculating the Morphic Field, the Bengali calendar should be used.
-Please see Appendix 2 – Calendar Conversions for more information.
+Please see the Calendar.md file in this folder for more information.
 
 Like Devanagari, this script is a abugida and the vowels come first in
 the order. The original letters should be used rather than any romanized
