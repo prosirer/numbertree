@@ -6,9 +6,9 @@ letters together to reach a final sum.
 
 **Vowels**: A, E, I, O, U.
 
-Italian – Descending Chart
+Italian –Lightning Chart
 
-|   |   |   |   |   |   |   |   |   |   |   |
+
 | - | - | - | - | - | - | - | - | - | - | - |
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | ↊ | ↋ |
 | A | B | C | D | E | F | G | H | I | L | M |
