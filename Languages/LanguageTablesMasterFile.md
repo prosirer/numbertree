@@ -1,5 +1,3 @@
-# 
-
 # <span id="anchor"></span>numbertree - Language Tables
 
 In order to divinate the name in a language according to the numbertree
