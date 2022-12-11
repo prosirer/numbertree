@@ -3,7 +3,7 @@
 This language uses two scripts: Rumi, an English script which is the
 more popular variant and Jawi, an Arabic script. The table to use will
 depend on which script the birth name is written in. If written in Rumi,
-the English table found in this Appendix can be used. This is because
+the English table can be used to divinate the name. This is because
 the letters in Rumi follow the exact alphabetical order also used in
 English. 
 
