@@ -8,10 +8,7 @@ the letters in Rumi follow the exact alphabetical order also used in
 English. 
 
 If the birth name is written in Jawi, then the tables below will have to
-be used. While most abjad’s are typically transcribed into English due
-to lack of vowels in the alphabet order, Jawi does include written
-vowels and so its script can be used natively. Short vowels in Jawi have
-the same value as long vowels. If a vowel is written in diacritic form,
+be used. Short vowels in Jawi have the same value as long vowels. If a vowel is written in diacritic form,
 then it will have the same value when written separately. 
 
 **Vowels**: ا , ع , و , ي
