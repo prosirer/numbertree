@@ -26,7 +26,7 @@ consonant value to the left is 2. Adding these numbers equals 8, and so
 the numerical value of ል is 8.
 
 Those born in Ethiopia or Eritrea will have to use the Ethiopian
-calendar to calculate the Morphic Field. Please see Appendix 2 for more
+calendar to calculate the Morphic Field. Please see the Calendar.md file in this folder for more
 information. 
 
 Amharic – Lightning Chart
