@@ -1,8 +1,7 @@
 ### <span id="anchor-44"></span>Tamil
 
 If the birth certificate uses the Tamil calendar, then the Morphic Field
-must be calculated using this calendar. Please see Appendix 2 – Tamil
-Calendar for more information. Otherwise, the birthdate in the Gregorian
+must be calculated using this calendar. Please see the Calendar.md file in this folder for more information. Otherwise, the birthdate in the Gregorian
 calendar is to be assumed. 
 
 Tamil uses its letters in both singular and compound forms. For the
