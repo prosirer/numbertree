@@ -1,7 +1,7 @@
 ### <span id="anchor-42"></span>Marathi
 
 Maharashtra state uses the Shaka calendar, and so the Morphic Field
-should be calculated according to the Shalivahana Shaka calendar. Please see the Calendar.md file in this folder for more information.
+should be calculated according to the Shalivahana Shaka. Please see the Calendar.md file in this folder for more information.
 
 Marathi uses the Balbodh alphabet, which is a slight derivation of the
 traditional Devanagari. The rules for the Hindi language section also
