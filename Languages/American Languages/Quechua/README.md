@@ -11,7 +11,7 @@ often a name is spoken.
 
 If a speaker of Quechua was given a Spanish name at birth and is
 primarily known by that name, then that name must be divinated by using
-the Spanish tables. Please see the Spanish section of this appendix for
+the Spanish tables. Please see the Spanish folder for
 more information.
 
 However, if a Quechua name was given parallel to the one officially
