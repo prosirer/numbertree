@@ -32,8 +32,7 @@ symbols of your native language in place of the Western Arabic numerals,
 this is acceptable as long as symbols representing ↊ and ↋ are used as
 well.
 
-The following Language Tables are ordered by the number of speakers in
-each language, divided by region.
+The following Language Tables are organized by the native region the Languages are spoken and/or originate from.
 
 ## <span id="anchor-1"></span>European Languages
 
