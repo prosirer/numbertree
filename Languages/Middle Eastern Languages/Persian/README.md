@@ -22,7 +22,7 @@ that represent ↊ and ↋. For Eastern Arabic, it would be wise to avoid
 confusion between ٤ and ↋ (four and eleven). 
 
 Those born in Iran or Afghanistan will have to use the Solar Hijri
-calendar to calculate the Morphic Field. Please see the Calendar.md file in the Persian folder for more
+calendar to calculate the Morphic Field. Please see the Calendar.md file in this folder for more
 information.
 
 Persian – Lightning Chart
