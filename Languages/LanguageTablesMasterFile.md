@@ -313,7 +313,7 @@ German – Halving Chart
 ### <span id="anchor-8"></span>Dutch
 
 Dutch uses the same letters as English, and so those with Dutch birth
-names can use the English tables throughout the book to divinate their
+names can use the English tables to divinate their
 name. 
 
 ### <span id="anchor-9"></span>Polish
@@ -724,7 +724,9 @@ Greek – Halving Chart
 | Λ/λ | Μ/μ | Ν/ν | Ξ/ξ | Ο/o | Π/π | Ρ/ρ | Σ/σ/ς | Τ/τ | Υ/υ |
 | Φ/φ | Χ/χ | Ψ/ψ | Ω/ω |     |     |     |       |     |     |
 
-### <span id="anchor-19"></span>Classical Latin
+### <span id="anchor-19"></span>Latin
+
+The tables below also work with Roman Latin.
 
 Any J’s that appear in the name is counted as a consonantal I. 
 
@@ -924,7 +926,7 @@ represents, the vowels are also converted into numbers.
 Unfortunately, many sounds that exist in the asian languages will not
 have an English equivalent. 
 
-### <span id="anchor-25"></span>Chinese Mandarin 
+### <span id="anchor-25"></span>Mandarin Chinese
 
 Chinese is a logosyballic language and as such does not contain letters
 but characters. Because of this, Hanyu Pinyin is used to translate the
@@ -939,8 +941,7 @@ should not be used here – only the Pinyin variant. This is because
 Pinyin is the closest alphabetical approximation to the sound of the
 birth name as it is spoken. That is not to say that the stems and
 branches are wrong, on the contrary. They can provide great insight.
-However, the acoustics pronounced are considered more important for this
-book.
+However, the acoustics pronounced are the bigger focal point of this system.
 
 Once the name is translated into Pinyin, the letters that make up the
 Pinyin name are then translated into numbers according to the table
@@ -1111,15 +1112,12 @@ South Korean Order – Halving Chart
 This language uses two scripts: Rumi, an English script which is the
 more popular variant and Jawi, an Arabic script. The table to use will
 depend on which script the birth name is written in. If written in Rumi,
-the English table found in this Appendix can be used. This is because
+the English table can be used to divinate the name. This is because
 the letters in Rumi follow the exact alphabetical order also used in
 English. 
 
 If the birth name is written in Jawi, then the tables below will have to
-be used. While most abjad’s are typically transcribed into English due
-to lack of vowels in the alphabet order, Jawi does include written
-vowels and so its script can be used natively. Short vowels in Jawi have
-the same value as long vowels. If a vowel is written in diacritic form,
+be used.Short vowels in Jawi have the same value as long vowels. If a vowel is written in diacritic form,
 then it will have the same value when written separately. 
 
 **Vowels**: ا , ع , و , ي
@@ -1523,10 +1521,7 @@ information.
 
 ### <span id="anchor-39"></span>**Hindi**
 
-Hindi uses the Devanagari script which is an abugida. Typically,
-abugida’s are not able to be natively used for divinating the birth
-name due to the lack of a vowel order. However, this script does contain
-such an order, and the vowels can also appear both independent and
+Hindi uses the Devanagari script which is an abugida. The vowels appear both independent and
 dependent (maatraa) of consonants.
 
 The value of the consonant and the value of the vowel attached to it
@@ -1544,6 +1539,8 @@ actual Devanagari letters yields the best results.
 
 If the schwa is pronounced, then it is counted with a value of 1.
 Otherwise, it has no value.
+
+The following tables list the vowels first followed by the consonants.
 
 Hindi – Lightning Chart
 
@@ -1600,7 +1597,7 @@ Hindi – Halving Chart
 ### <span id="anchor-40"></span>Bengali
 
 For calculating the Morphic Field, the Bengali calendar should be used.
-Please see Appendix 2 – Calendar Conversions for more information.
+Please see the CALENDAR.md file in the Benagli folder for more information.
 
 Like Devanagari, this script is a abugida and the vowels come first in
 the order. The original letters should be used rather than any romanized
@@ -1713,8 +1710,7 @@ Punjabi – Halving Chart
 ### <span id="anchor-42"></span>Marathi
 
 Maharashtra state uses the Shaka calendar, and so the Morphic Field
-should be calculated according to the Shalivahana Shaka section in
-Appendix 2.
+should be calculated according to the Shalivahana Shaka. Please see the Calendar.md file in the Marathi folder for more information.
 
 Marathi uses the Balbodh alphabet, which is a slight derivation of the
 traditional Devanagari. The rules for the Hindi language section also
@@ -1827,8 +1823,7 @@ Telugu – Halving Chart
 ### <span id="anchor-44"></span>Tamil
 
 If the birth certificate uses the Tamil calendar, then the Morphic Field
-must be calculated using this calendar. Please see Appendix 2 – Tamil
-Calendar for more information. Otherwise, the birthdate in the Gregorian
+must be calculated using this calendar. Please see the Calendar.md file in the Tamil folder for more information. Otherwise, the birthdate in the Gregorian
 calendar is to be assumed. 
 
 Tamil uses its letters in both singular and compound forms. For the
@@ -1984,8 +1979,7 @@ Tamil – Halving Chart (Compound Letters)
 ### <span id="anchor-45"></span>Gujarati
 
 If the Vikram calendar (Amanta system) is on the birth certificate, then
-it should be used to calculate the Morphic Field. This can be found in
-Appendix 2 – Calendar Conversions.
+it should be used to calculate the Morphic Field. Please see the Calendar.md file in the Gujarati folder for more information.
 
 The two consonants that make up a conjunct consonant must both be added
 together. This will be the value of the conjunct consonant itself. 
@@ -2214,7 +2208,7 @@ As with other languages based on the Brahmi script, each dependent vowel
 is added to the consonant to determine the value of the character. 
 
 Those born in Nepal will have to use the Bikram Samvat calendar to
-calculate the Morphic Field. Please see Appendix 2 for more information.
+calculate the Morphic Field. Please see the Calendar.md file in the Nepali folder for more information.
 
 Nepali – Lightning Chart
 
@@ -2634,7 +2628,7 @@ consonant value to the left is 2. Adding these numbers equals 8, and so
 the numerical value of ል is 8.
 
 Those born in Ethiopia or Eritrea will have to use the Ethiopian
-calendar to calculate the Morphic Field. Please see Appendix 2 for more
+calendar to calculate the Morphic Field. Please see the Calendar.md file in the Amharic folder for more
 information. 
 
 Amharic – Lightning Chart
@@ -2811,7 +2805,7 @@ but are added to the Interface core number as a consonant instead of the
 Heart core number. 
 
 Those born in Ethiopia or Eritrea will have to use the Ethiopian
-calendar to calculate the Morphic Field. Please see Appendix 2 for more
+calendar to calculate the Morphic Field. Please see the Calendar.md file in the Oromo folder for more
 information. 
 
 **Vowels**: A, E, I, O, U.
@@ -3033,7 +3027,7 @@ Igbo – Halving Chart
 ### <span id="anchor-65"></span>Pan-Nigerian
 
 This alphabet is to be used for those languages in Nigeria that are not
-covered elsewhere in this section. Since this alphabet is designed to be
+covered elsewhere in this system. Since this alphabet is designed to be
 a “one size fits all,” divination accuracy cannot be guaranteed. 
 
 Pan-Nigerian – Lightning Chart
@@ -3140,20 +3134,17 @@ Fulani – Halving Chart
 ### <span id="anchor-67"></span>Zulu
 
 The alphabets for both Zulu and English are identical, so those with
-Zulu birth names can use the English tables in the European Languages
-section to divinate their name.
+Zulu birth names can use the English tables in the English folder to divinate the name.
 
 ### <span id="anchor-68"></span>Xhosa
 
 The alphabets for both Xhosa and English are identical, so those with
-Xhosa birth names can use the English tables in the European Languages
-section to divinate their name.
+Xhosa birth names can use the English tables in the English folder to divinate the name.
 
 ### <span id="anchor-69"></span>Afrikaans
 
 Afrikaans uses the same letters and letter order as English, so those
-with Afrikaans birth names can use the English tables throughout the
-book to divinate the name.
+with Afrikaans birth names can use the English tables in the English folder to divinate the name.
 
 Any vowel diphthongs such as “oo” or “oei” should be treated as
 individual letters as to their value. 
@@ -3572,7 +3563,7 @@ that represent ↊ and ↋. For Eastern Arabic, it would be wise to avoid
 confusion between ٤ and ↋ (four and eleven). 
 
 Those born in Iran or Afghanistan will have to use the Solar Hijri
-calendar to calculate the Morphic Field. Please see Appendix 2 for more
+calendar to calculate the Morphic Field. Please see the Calendar.md file in the Persian folder for more
 information.
 
 Persian – Lightning Chart
@@ -3898,7 +3889,7 @@ often a name is spoken.
 
 If a speaker of Quechua was given a Spanish name at birth and is
 primarily known by that name, then that name must be divinated by using
-the Spanish tables. Please see the Spanish section of this appendix for
+the Spanish tables. Please see the Spanish folder for
 more information.
 
 However, if a Quechua name was given parallel to the one officially
@@ -3916,7 +3907,7 @@ sum. The resulting number will be the spiritual power behind the letters
 and foretells the lessons to learn as given by the Creator.
 
 There are many different dialects of Quechua. The ones that total
-roughly 1 million or more speakers are planned for this section. 
+roughly 1 million or more speakers are included in this section. 
 
 #### <span id="anchor-87"></span>South Bolivian
 
