@@ -29,7 +29,7 @@ sum. The resulting number will be the spiritual power behind the letters
 and foretells the lessons to learn as given by the Creator.
 
 There are many different dialects of Quechua. The ones that total
-roughly 1 million or more speakers are planned for this section. 
+roughly 1 million or more speakers are included in this section. 
 
 #### <span id="anchor-87"></span>South Bolivian
 
