@@ -1,8 +1,7 @@
 ### <span id="anchor-45"></span>Gujarati
 
 If the Vikram calendar (Amanta system) is on the birth certificate, then
-it should be used to calculate the Morphic Field. This can be found in
-Appendix 2 – Calendar Conversions.
+it should be used to calculate the Morphic Field. Please see the Calendar.md file in this folder for more information.
 
 The two consonants that make up a conjunct consonant must both be added
 together. This will be the value of the conjunct consonant itself. 
