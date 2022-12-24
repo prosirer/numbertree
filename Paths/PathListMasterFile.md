@@ -24,6 +24,7 @@ willingness to close old doors, leaving them behind.
 ### 1-6: Path of the Camel
 
 ### 1-7: Path of the Holy Child
+Promordial beginning, something new is being birthed, a new connection to the natural world.
 
 ### 1-8: Path of the Spark
 
