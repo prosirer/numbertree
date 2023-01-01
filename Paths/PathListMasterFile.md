@@ -140,7 +140,7 @@ Caph = fist.
 This path brings justice, spiritual balance and karmic adjustment. Opposing forces are measured and discriminated as to their origins, leading to growth of inner awareness (↋) of one's spirit.
 When the scales balance, inner insight is achieved.
 
-## 5-7: Path of the Hawk
+### 5-7: Path of the Hawk
 
 Represents the disciplining of endurance and imagination to overcome adversity, allowing the expression of divine will though a person (5+7=10/1). It gives the ability to discern a situation and see the whole picture. If positive, a purging of impractical thoughts that have little to no manifest potential occurs.
 
